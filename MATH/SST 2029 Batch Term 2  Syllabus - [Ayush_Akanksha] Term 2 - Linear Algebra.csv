@@ -1,0 +1,84 @@
+Session No.,Session Title,Topics/Flow
+1,Vectors as Geometry & Data,"Scalars vs vectors
+Vector representation in ℝⁿ
+Direction vs magnitude
+Standard basis vectors
+Linear vs affine vs convex combinations (ties into LP later)
+Interpretation of vectors as data features
+Geometric intuition for linear equations in 2D (prep for systems)",
+2,Matrices as Data Containers & Transformation Engines,"Matrices as tables + transformations
+Types of matrices: row, column, square, diagonal, identity, symmetric
+Transpose
+Matrix addition, scalar multiplication
+Matrix–vector multiplication as blocks (columns as images of basis vectors)",
+3,Linear Transformations in Geometry,"Matrices as transformations
+Columns = images of basis vectors
+Rotation, reflection, scaling, shear
+Identity & inverse (geometric view)
+Determinant as area-scaling factor",
+4,"Determinants, Cofactors & Inverse","Determinants formally
+Cofactor expansion
+Adjoint matrix
+Inverse using adjoint / determinant
+det(AB) = det(A) det(B)
+When inverse exists? (connect to rank later)",
+5,"Linear Combinations, Span, Null Space, Subspaces","Linear combinations
+Span and generating sets
+Subspaces (null space, column space)
+Examples in ℝ² & ℝ³
+Row space + column space intuition",
+6,"Linear Independence, Basis & Dimension","Linear dependence tests
+Basis
+Basis for column space & null space
+Dimension
+Coordinates relative to a basis
+Light change of basis",
+7,Ax = b (Part 1): Geometry of Solutions,"What Ax = b means
+When solutions exist: geometric interpretation
+One, none, infinite solutions
+Hyperplanes
+Augmented matrices",
+8,"RREF, Pivot Columns, Rank–Nullity","Row reduction
+RREF
+Pivot columns
+Rank
+Null space
+Rank–nullity theorem
+Over/under-determined systems",
+9,"Numerical Solutions: Gaussian, Gauss–Jordan, LU","Gaussian elimination examples
+Gauss–Jordan elimination
+LU decomposition (what/why)
+Stability intuition",
+10,"Inner Products, Angles, Orthogonality","Inner product definition
+Norm from inner product
+Angle between vectors
+Cosine similarity
+Orthogonal vs orthonormal sets
+Projections (preview)",
+11,Projections & Least Squares,"Projection onto line
+Projection onto subspace
+Projection matrix
+Normal equation (conceptual)
+Least squares regression intuition",
+12,"Gram–Schmidt, QR & Least Squares Again","Why Gram–Schmidt
+Constructing orthonormal basis
+QR factorization
+Least squares via QR
+Numerical stability insight",
+13,"Eigenvalues, Eigenvectors & Applications","Definition of eigenvalues/vectors
+Geometry: invariant directions
+Stretch factors
+Characteristic equation intuition
+Power iteration
+Applications: stability, Markov chains, ML intuition
+Symmetric matrices & orthogonal diagonalization intro",
+14,"Spectral Theorem, SVD, PCA & Convexity","Symmetric matrices
+Positive definite matrices
+Quadratic forms
+SVD: geometric view (U, Σ, Vᵀ)
+Low-rank approximation
+PCA via eigen decomposition
+PCA via SVD
+Convex sets
+Convex combinations (already touched earlier)
+Linear programming intuition (only conceptual)",

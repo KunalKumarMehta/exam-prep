@@ -1,0 +1,122 @@
+Session No.,Session Title,Topics/Flow,
+1,DSA 101: Time Complexity,"Count of Factors
+Counting Iterations
+Comparing 2 algorithms
+Big O - Time Complexity
+- What is Big O
+- Why ignore lower order terms & constant coefficient
+- Limitations of BigO"
+2,DSA 101: Space Complexity & Memory Management,"Why TLE Happens?
+Data Structure
+- Eg. Array
+Space Complexity
+Space Complexity Practice
+Importance of Constraints
+Memory Management"
+3,DSA 101: OOPS 1,"From Arrays to Real-World Entities
+The Birth of Classes
+Objects – Real Instances
+Constructors & Initialization
+References, Memory & Recap"
+4,DSA 101: OOPS 2,"Single Responsibility Principle (SRP)
+Concept of Inheritance
+Multiple Inheritance Issue
+Constructor Chaining
+Polymorphism
+Method Overloading & Overriding"
+5,DSA 101: OOPS 3,"Static Keyword
+Encapsulation
+Access Modifier
+Building Our Own ArrayList Class
+Nested Classes",
+6,DSA 101: OOPS 4,"Tic Tac Toe Game
+Design Parking System (Easy)
+Design Neighbour Sum Service"
+7,DSA 101: OOPS 5,Amazon Book Dataset
+8,DSA 101: Prefix Sum,"Prefix Sum Introduction
+Sum of even indexed elements in a given range
+Sum of odd indexed elements in a given range
+Special Index
+Number of even numbers in given range",
+9,DSA 101: Carry Forward,"AG Pairs
+Subarray Definition + Count of Subarrays
+Print all subarrays
+Sum of every Subarray - Bruteforce
+Sum of every Subarray - Using Carry Forward",
+10,DSA 101: Contribution Technique & Sliding Window,"Count of Subarrays containing an Element
+Sum of all Subarray Sums [Contribution Technique]
+Sliding Window - Max subarray sum of length K
+Max Subarray Sum (Kadane's Algorithm)",
+11,DSA 101: Interview Problems 1,"Continuous Sum Query from i to last index
+Continuous Sum Query from i to j
+Rain Water Trap
+Search in Row-Wise Column-Wise Sorted Matrix"
+12,DSA 101: Interview Problems 2,"First Missing Integer (+ve numbers)
+First Missing Integer for ve- nos.
+Merge Overlapping Intervals
+Count of Submatrix containing an Element
+HW: Sum of all submatrices sum",
+13,DSA 101: String 1,"String Immutability - Memory View
+StringBuilder class & it's functions in java
+Create a string using only vowels of the given string
+- Explain TC with String & StringBuilder
+Check if substring [i j] is palindrome
+Length of longest palindromic substring",
+14,DSA 101: String 2,"Find the length of longest word in the string
+- Use of split() & length() function
+Reverse String Word By Word
+Shortest substring of A having all characters of B
+- Using frequency array
+Count of Permutation of A in B
+- Using frequency array & sliding window",
+15,DSA 101: Prime Numbers,"Check if the given number is prime number
+Find all prime numbers from 1 to N [Sieve]
+Find count of divisors of all numbers from 1 to N using sieve
+Find Smallest Prime Factor (SPF) of all numbers from 1 to N using sieve",
+16,DSA 101: Recursion 1,"Introduction to Recursion
+Function Call Tracing
+Factorial of N
++ Dry-run of recursive code
+Printing numbers in Inc Order
+Printing numbers in Dec Order
+Time & Space Complexity",
+17,DSA 101: Recursion 2,"Fibonacci Numbers
+Fast Power Function
+Count of element K in the Array
+Indices of element K an Array",
+18,DSA 101: Modular Arithmetic & GCD,"Introduction & Properties of % wrt [+, -, x, and Power]
+Mod on Power Function
+Find GCD(a, b) - bruteforce.
+Properties of GCD.
+GCD optimised code
+Delete one element s.t. GCD of remaining elements is maximised",
+19,DSA 101: Sorting 1,"Sorting basics
+Min cost to remove elements
+Find Kth Max Element via Selection Sort
+Insertion Sort
+Stable Sorting
+Inplace Sorting",
+20,DSA 101: Sorting 2,"Form the smallest number from single digits
+Count Sort
+Merge two sorted arrays
+Merge Sort",
+21,DSA 101: Sorting 3,"Partition Array [Return Index of partition point]
+Quick Sort
+Time Complexity of Quick Sort
+Inversion Count",
+22,DSA 101: Sorting 4,"Inbuilt Sorting Functions
+- Arrays.sort()
+- Collections.sort()
+Comparator Basics
+Using lambda with Comparator
+Factors Sort
+Largest Number
+Sorting array of objects",
+23,DSA 101: Two Pointers 1,"Pair sum = K in sorted array
+Count of pairs with sum = K
+Pair difference = K
+Container with most water",
+24,DSA 101: Two Pointers 2,"Subarray with given sum
+3 Sum
+Array 3 Pointers
+Excel Column Title",
